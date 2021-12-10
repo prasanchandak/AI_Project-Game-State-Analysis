@@ -4,7 +4,7 @@
 
 In this project we have used A*, Minimax, BFS and DFS on various games (Maze Traversal and Tic-Tac-Toe) to analyze their states and suggest the next step for the best possible result.
 
-For this purpose, we have used A*, BFS and DFS on a maze game and implemented it in Python using the `pyamaze` package and used the Minimax algorithm to create a Tic-Tac-Toe game 
+For this purpose, we have used A*, BFS and DFS on a maze game and implemented it in Python using the `pyamaze` module and used the Minimax algorithm to create a Tic-Tac-Toe game 
 to be played against moves calculated by the algorithm.
 
 In the file *Comparison.py* we have solved the maze using all the algorithms and calculated the time taken by all the algorithms to solve the same maze.

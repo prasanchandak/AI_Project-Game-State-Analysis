@@ -23,8 +23,6 @@ This is as expected as A* is an informed search algorithm and BFS and DFS are no
 
 Pyamaze: https://towardsdatascience.com/a-python-module-for-maze-search-algorithms-64e7d1297c96
 
-Project Developed By:
-
-Prasan Chandak
-Nikhil Gupta
-Ritik Gupta
+\
+Project Developed By:\
+Prasan Chandak, Nikhil Gupta and Ritik Gupta

@@ -13,7 +13,6 @@ We have found that up until mazes of size 10 x 10, all algorithms have almost si
 This is as expected as A* is an informed search algorithm and BFS and DFS are not. 
 
 \
-\
 *References*
 
 Pyamaze: https://towardsdatascience.com/a-python-module-for-maze-search-algorithms-64e7d1297c96
